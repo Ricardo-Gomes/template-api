@@ -1,0 +1,14 @@
+com\oliveira\templateapi\config\SecurityConfig.class
+com\oliveira\templateapi\ClientesApplication.class
+com\oliveira\templateapi\util\BigDecimalConverter.class
+com\oliveira\templateapi\model\repository\UsuarioRepository.class
+com\oliveira\templateapi\model\entity\Usuario.class
+com\oliveira\templateapi\rest\UsuarioController.class
+com\oliveira\templateapi\config\AuthorizationServerConfig.class
+com\oliveira\templateapi\service\UsuarioService.class
+com\oliveira\templateapi\exception\UsuarioCadastradoException.class
+com\oliveira\templateapi\rest\exception\ApiErrors.class
+com\oliveira\templateapi\config\InternacionalizacaoConfig.class
+com\oliveira\templateapi\config\WebConfig.class
+com\oliveira\templateapi\rest\ApplicationControllerAdvice.class
+com\oliveira\templateapi\config\ResourceServerConfig.class

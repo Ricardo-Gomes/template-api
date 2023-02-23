@@ -1,0 +1,14 @@
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\ClientesApplication.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\config\ResourceServerConfig.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\config\InternacionalizacaoConfig.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\config\WebConfig.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\util\BigDecimalConverter.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\model\entity\Usuario.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\service\UsuarioService.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\model\repository\UsuarioRepository.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\rest\exception\ApiErrors.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\exception\UsuarioCadastradoException.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\rest\ApplicationControllerAdvice.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\config\AuthorizationServerConfig.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\config\SecurityConfig.java
+C:\Users\Ricardo\desenvolvimento\workspace-template\template-api\src\main\java\com\oliveira\templateapi\rest\UsuarioController.java
